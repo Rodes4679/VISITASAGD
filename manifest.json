@@ -1,0 +1,14 @@
+
+{
+  "name": "Visitas AGD",
+  "short_name": "Visitas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#002147",
+  "theme_color": "#002147",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
